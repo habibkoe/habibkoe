@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @habibkoe
 - 👀 I’m interested in full stacek web developer
-- 🌱 I’m currently learning laravel, codeigniter, symfony, vuejs, reactjs
+- 🌱 I’m currently work with laravel, codeigniter, symfony, angularjs, reactjs
 
 <!---
 habibkoe/habibkoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
