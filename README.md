@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @habibkoe
 - 👀 I’m interested in full stacek web developer
-- 🌱 I’m currently work with Laravel, Codeigniter, Symfony, Angular, React Js (Next Js), Nest Js
+- 🌱 I’m currently work with Laravel, Codeigniter, Symfony, Angular, React Js (Next Js), Nest Js, Svelte
+- now also do coding with agentic AI
 - I Also have any experience at MySql, PostgreSql, MongoDB
 
 <!---
